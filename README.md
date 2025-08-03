@@ -26,7 +26,9 @@ Objects and Arrays	Stores quiz questions and the leaderboard data
 Loops & Functions	Controls the flow and logic of the quiz
 Conditionals	Handles answer checking and score logic
 Sorting Algorithm	Sorts leaderboard data based on scores
+
 💻 Installing Node.js and Running the Code
+
 ✅ Step 1: Install Node.js
 Visit the official website: https://nodejs.org
 
@@ -36,9 +38,10 @@ Run the installer and follow setup instructions.
 
 Once installed, verify using:
 
-bash
+bash terminal 
 node -v
 npm -v
+
 ✅ Step 2: Set Up Your Project
 Create a folder for your quiz project
 
@@ -61,50 +64,4 @@ Once your quizify.js file is ready and has the code:
 
 bash
 node quizify.js
-It will ask your name, and then you can start answering questions.
-Level 2
-Task 1
-
-Front-end Frameworks:
-
-1. Use a front-end framework like Bulma or UIKit to create a responsive card component with an image and text.
-
-3. Implement a basic responsive grid layout using a front-end framework like Bootstrap or Foundation.
-
-Level 2
-Task 2
-
-Responsive Design:
-
-1.Convert a basic webpage into a responsive design that adapts to different screen sizes using CSS media queries.
-
-2. Create a mobile-friendly navigation menu that collapses into a hamburger menu on smaller screens using HTML and CSS.
-
-Level 3
-Task 1
-
-Image Manipulation:
-
-1. Use CSS to create a basic image gallery with thumbnail images that enlarge when clicked.
-
-2. Implement a simple image slideshow that automatically transitions between images using HTML and CSS.
-
-Level 3
-Task 2
-
-1.Create a landing page for a web developer internship with the following key elements:
-
-=> Clear headline: "Web Developer Internship Opportunities at Cognifyz Technologies"
-
-=>Brief introduction: Overview of the internship program and duration.
-
-=>Highlights: Benefits of the internship, such as real-world experience and mentorship.
-
-=>Qualifications: Desired skills and technologies.
-
-=>Call-to-action (CTA) button: "Apply Now" or "Learn More."
-
-=>Contact information: Footer with relevant contact details for inquiries.
-
-
-
+It will ask your name, and then you can start now.
