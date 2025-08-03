@@ -1,4 +1,5 @@
 Quzify app 
+
 Technologies are used HTML, CSS, JavaScript and Node.js(basic level)
 in that all categories are available like python, HTML, CSS, JavaScript, MySQL, Java, Ai related things also and some more.
 
